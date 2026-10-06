@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RobloxChatFix.vcxproj" Id="213bd689-7415-4f80-bfaf-4382c1728c23" />
+</Solution>
